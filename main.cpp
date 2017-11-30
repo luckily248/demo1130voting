@@ -7,9 +7,12 @@
 //
 
 #include <iostream>
+#include <f>
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    
+    cout<<"Automated electronic voting system\n";
+    cout<<"1, Vote\n";
+    cout<<"2, "
     return 0;
 }
